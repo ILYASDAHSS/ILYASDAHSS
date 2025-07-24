@@ -44,7 +44,7 @@ const ilyas = {
 <img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
 
 ### Backend & Databases  
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
@@ -54,23 +54,21 @@ const ilyas = {
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931E" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=F7931E&ring=F7931E&fire=F7931E&currStreakLabel=F7931E" />
-</div>
-
-## 🎯 Featured Projects
+## 📊 My Skills
 
 <div align="center">
 
-[![Weather Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=weather-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E)](https://github.com/yourusername/weather-dashboard)
-[![JavaScript Chess Game](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=chess-game&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F7931E&icon_color=F7931E)](https://github.com/yourusername/chess-game)
+### Languages
+<img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+
+### Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 
 </div>
 
@@ -83,17 +81,7 @@ const ilyas = {
 | 🛒 **Stock Management** | Inventory system for businesses | PHP, MySQL, Bootstrap | 🔄 In Progress |
 | 🔍 **RPG Creature Search** | Search engine for game creatures | PHP, JSON, AJAX | 🔄 In Progress |
 
-## 📈 Coding Activity
 
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=F7931E&line=F7931E&point=FFFFFF" />
-</div>
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_username&count=1&unique=true" />
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -166,8 +154,7 @@ graph LR
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
 
-<!-- Snake Animation -->
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
