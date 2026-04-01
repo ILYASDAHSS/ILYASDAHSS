@@ -1,163 +1,131 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hi there, I'm **Ilyas Dahss**
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ilyas+Dahss!;Full-Stack+Developer!;Welcome+to+my+Profile!&color=F7931E" />
+
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:3b82f6,100:6366f1&height=200&section=header&text=Ilyas%20Dahss&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Rabat%2C%20Morocco%20🇲🇦&descAlignY=55&descSize=18" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ilyas+👋;Full-Stack+Developer+in+the+making;JavaScript+%7C+PHP+%7C+Python+enthusiast;Building+the+future%2C+one+commit+at+a+time+🚀" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-dahss-a08637337)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dahssilyas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ILYASDAHSS)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ILYASDAHSS&label=Profile+Views&color=0ea5e9&style=flat-square)
+
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+---
 
-### 💫 About Me
+## 🧠 About Me
 
-```javascript
-const ilyas = {
-    pronouns: "He" | "Him",
-    location: "Rabat, Morocco 🇲🇦",
-    currentFocus: "Full-Stack Development",
-    school: "ISTA NTIC Rabat",
-    
-    currentlyLearning: [
-        "MongoDB & Mongoose",
-        "Advanced PHP & OOP",
-        "Node.js & Express.js",
-        "Database Optimization"
-    ],
-    
-    askMeAbout: [
-        "Web Development", 
-        "JavaScript", 
-        "PHP", 
-        "Database Design",
-        "Chess Strategies ♟️"
-    ],
-    
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+```typescript
+const ilyas: Developer = {
+  name:     "Ilyas Dahss",
+  location: "Rabat, Morocco 🇲🇦",
+  school:   "ISTA NTIC Rabat",
+  role:     "Full-Stack Developer (in progress)",
+
+  currentlyLearning: [
+    "MongoDB & Mongoose",
+    "Advanced PHP & OOP",
+    "Node.js & Express.js",
+    "Database Optimization",
+  ],
+
+  askMeAbout: ["Web Dev", "JavaScript", "PHP", "Chess ♟️"],
+
+  funFact: "I debug with console.log() and I'm proud of it 🐛",
 };
 ```
 
-<br clear="both">
+---
 
-## 🚀 Tech Stack & Tools
-
-<div align="center">
-
-### Languages
-<img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
-
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
-
-### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-
-</div>
-
-## 📊 My Skills
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=js,php,html,css,python" />
+### 💬 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,bootstrap" />
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Backend & Databases  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+### ⚙️ Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-### 🏆 Project Highlights
+---
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| 🌤️ **Weather Dashboard** | Real-time weather data with beautiful UI | Node.js, Express, API Integration | ✅ Complete |
-| ♟️ **Chess Game** | Interactive chess with move validation | Vanilla JavaScript, CSS3 | ✅ Complete |
-| 🛒 **Stock Management** | Inventory system for businesses | PHP, MySQL, Bootstrap | 🔄 In Progress |
-| 🔍 **RPG Creature Search** | Search engine for game creatures | PHP, JSON, AJAX | 🔄 In Progress |
+## 🚀 Project Highlights
 
+| Project | Description | Stack | Status |
+|--------|-------------|-------|--------|
+| 🌤️ **Weather Dashboard** | Real-time weather with clean UI | Node.js · Express · API | ✅ Done |
+| ♟️ **Chess Game** | Interactive chess with move validation | Vanilla JS · CSS3 | ✅ Done |
+| 🛒 **Stock Management** | Inventory system for businesses | PHP · MySQL · Bootstrap | 🔄 In Progress |
+| 🔍 **RPG Creature Search** | Search engine for game creatures | PHP · JSON · AJAX | 🔄 In Progress |
 
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ILYASDAHSS&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ILYASDAHSS&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ILYASDAHSS&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=f472b6&currStreakLabel=38bdf8)](https://git.io/streak-stats)
+
+</div>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-</div>
 
-## 💻 Current Learning Journey
-
-```mermaid
-graph LR
-    A[📚 Current Studies] --> B[MongoDB & Mongoose]
-    A --> C[Advanced PHP OOP]
-    A --> D[Node.js & Express]
-    A --> E[Database Optimization]
-    
-    B --> F[🎯 Building Projects]
-    C --> F
-    D --> F
-    E --> F
-    
-    F --> G[🚀 Full-Stack Mastery]
-    
-    style A fill:#F7931E,stroke:#fff,stroke-width:2px,color:#000
-    style G fill:#0D1117,stroke:#F7931E,stroke-width:3px,color:#F7931E
-```
-
-## 🎮 Fun Zone
-
-<details>
-<summary>🎯 Quick Facts About Me</summary>
-
-- 🔥 I can solve a Rubik's cube in under 2 minutes
-- ♟️ Chess rating: Still climbing! 
-- 🌙 Night owl - my best code happens after midnight
-- ☕ Coffee dependency level: **MAXIMUM**
-- 🎵 Coding playlist: Lo-fi hip hop + epic movie soundtracks
-- 💡 Dream project: AI-powered chess tutor
-
-</details>
-
-<details>
-<summary>💬 Random Dev Quote</summary>
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" />
-</div>
-
-</details>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilyas-dahss-a08637337)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dahssilyas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DAHSSILYAS)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=ILYASDAHSS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=F7931E&style=flat" alt="Profile Views" />
-  
-  ### 💖 Thanks for visiting my profile!
-  
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</div>
+## ⚡ Fun Facts
 
-
+- 🔥 Can solve a Rubik's cube in under 2 minutes  
+- ♟️ Chess rating: still climbing!  
+- 🌙 Night owl — best code happens after midnight  
+- ☕ Coffee dependency level: **MAXIMUM**  
+- 💡 Dream project: **AI-powered chess tutor**
 
 ---
 
 <div align="center">
-  <h3>🚀 "Building the future, one commit at a time" 🚀</h3>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:3b82f6,100:0ea5e9&height=120&section=footer" />
+
+**"Building the future, one commit at a time 🚀"**
+
 </div>
